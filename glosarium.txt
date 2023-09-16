@@ -1,0 +1,57 @@
+karakteristik gaya procedural programming
+- instruksi dilakukan langkah demi langkah
+-  memecah program menjadi bagian-bagian kecil
+- disebut prosedur, subroutine atau function
+- linear / top-to-button
+- fortran,ALGOL,COBOL,Pascal,C,PHP< javascript
+
+
+
+kelebihan procedural programming
+
+- To the point
+- simplicity & kemudahan implementasi (untuk compiler dan interpreter)
+- mudah ditelusuri
+- membutuhkan lebih sedikit memory (dibandingkan dengan oop)
+
+Object oriented programming
+- menyusun semua kode program dan struktur data sebagai Object
+- objek adalah unit dasar dari program
+- objek menyimpan data dan perilaku
+- objek bisa saling berinteraksi
+- java, ruby,Python,C++, javascript,php5
+
+
+kelebihan Object oriented programming
+- Representasi dari dunia nyata
+- Enkapsulasi & abstraksi data
+- reusability 
+- skalabilitas & ekstensibilitas
+- kemudahan pengelolaan
+- kolaborasi
+- digunakan oleh framework
+
+
+
+konsep oop pada php
+
+basic 
+- class & object
+- property & method
+- constructor
+- object Type
+- inheritance (pewarisan)
+- visibility / access modifier
+- setter & getter
+- static method
+
+
+advanced 
+- abstract & interface
+- interceptor
+- object clonning
+- callbacks & closures
+- namespaces & autoloading
+...
+
+
