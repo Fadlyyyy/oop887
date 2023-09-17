@@ -55,3 +55,52 @@ advanced
 ...
 
 
+
+konsep class dan object
+
+class 
+- Blueprint / template untuk membuat instance dari object
+- class mendefinisikan object
+- menyimpan data dan perilaku yang disebut dengan property dan method
+
+cara membuat class
+- diawali dengan menuliskan keyword class, diikuti nama dan dibatasi dengan {} untuk kemudian
+meyimpan property dan method
+
+- aturan penamanaan class sama seperti variable
+
+contoh class 
+<?php 
+
+class coba {
+
+    public $al // property
+
+    // method
+    public function b () {
+
+    }
+}
+?>
+
+Object
+- instance yang didefinisikan oleh class
+- banyak object dapat dibuat menggunakan satu class
+- object dibuat dengan menggunakan keyword new
+
+
+contoh object
+
+
+<?php 
+class coba {
+
+
+
+}
+
+membuat object instance dari class
+$a = new coba();
+$b = new coba();
+
+?>
