@@ -64,6 +64,6 @@ echo "Game : " . $produk4->getLabel();
     pada parameter didalam classnya
     dengan cara constructor method 
     constructor method adalah method yang otomatis dipanggil 
-    ketika sebuah class dibuat object atau instansnya 
+    ketika sebuah class dibuat object atau instansiasinya
 
 -->

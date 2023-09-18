@@ -133,3 +133,12 @@ Method (Perilaku)
 - gantiTransmisi
 - belokKiri
 - belokKanan
+
+
+constructor
+merupakan sebuah method yang special / khusus yang ada didalam sebuah class
+karena constructor ini adalah method yang otomatis dijalankan ketika 
+sebuah class kita instansiasi / dibuat objectnya.
+jika kita membuat object dengan menggunakan keyword new
+secara otomatis pula ada sebuah method yang dijalankan, hal itu yang disebut dengan
+constructor method
