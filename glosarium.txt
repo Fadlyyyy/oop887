@@ -104,3 +104,32 @@ $a = new coba();
 $b = new coba();
 
 ?>
+
+
+property dan method
+
+property 
+- sesuatu yang merepresentasikan data / keadaan dari sebuah object
+- variable yang ada didalam object (member variable)
+- sama seperti variable didalam php, ditambah dengan visibility didepannya
+
+method
+- merepresentasikan perilaku dari sebuah object
+- function yang ada didalam object
+- sama seperti function didalam php, ditambah dengan  visibility didepannya
+
+analogi seperti sebuah mobil
+
+Property  (data)
+- nama
+- merk 
+- warna 
+- kecepatanMaksimal
+- jumlahPenumpang
+
+Method (Perilaku)
+- tambahKecepatan
+- kurangiKecepatan
+- gantiTransmisi
+- belokKiri
+- belokKanan
