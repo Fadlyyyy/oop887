@@ -142,3 +142,12 @@ sebuah class kita instansiasi / dibuat objectnya.
 jika kita membuat object dengan menggunakan keyword new
 secara otomatis pula ada sebuah method yang dijalankan, hal itu yang disebut dengan
 constructor method
+
+
+Inheritance 
+- merupakan hieraki antar kelas (Parent & Child)
+- child class, mewarisi semua properti dan method dari parent-nya (yang visible)
+- Child class, memperluas (extends) fungsionalitas dari parent-nya
+
+
+why inheritance
