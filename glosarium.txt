@@ -134,6 +134,25 @@ Method (Perilaku)
 - belokKiri
 - belokKanan
 
+namun ada beberapa mobil yang memiliki properti dan method yang khusus, selain method dan property yang ada dibatasi
+
+contoh mobil sport merk lamborghini
+
+Property 
+- turbo (tipe boolean : true or false)
+
+
+
+
+
+Method 
+- jalankanTurbo
+
+
+
+ilustrasi diatas bisa dianggap atau dikategorikan sebagai inheritance, dimana mobil sport adalah child class dari class mobil
+dia mempunyai nama, tipe dan juga bisa menambah kecepatan.
+namun dia mempunyai properti dan method khusus
 
 constructor
 merupakan sebuah method yang special / khusus yang ada didalam sebuah class
@@ -150,4 +169,5 @@ Inheritance
 - Child class, memperluas (extends) fungsionalitas dari parent-nya
 
 
-why inheritance
+why inheritance??
+
