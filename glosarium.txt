@@ -174,3 +174,18 @@ Overriding
 Overriding adalah sebuah istilah dimana kita bisa membuat method dikelas child yang memiliki
 nama yang sama deengan kelas parentnya atau istilah lainnya meethod yang kita buat menimpa method punya 
 parent class
+
+
+visibility (acces modifier)
+
+- konsep yang digunakan untuk mengatur akses dari property dan method pada sebuah object
+-ada 3 keyword visibility : public, protected dan private.
+    -public , dapat digunakan dimana saja, bahkan diluar kelas.
+    -protected, hanya dapat digunakan didalam sebuah kelas beserta turunannya.
+    -private, hanya dapat digunakan didalam sebuah kelas tertentu saja.
+
+why visibility??
+- karena hanya memperlihatkan aspek dari class yang dibutuhkan oleh 'client'
+- dapat menentukan kebutuhan yang jelas untuk object
+- memberikan kendali pada kode untuk menghindari 'bug'
+
