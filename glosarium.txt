@@ -169,5 +169,8 @@ Inheritance
 - Child class, memperluas (extends) fungsionalitas dari parent-nya
 
 
-why inheritance??
+Overriding
 
+Overriding adalah sebuah istilah dimana kita bisa membuat method dikelas child yang memiliki
+nama yang sama deengan kelas parentnya atau istilah lainnya meethod yang kita buat menimpa method punya 
+parent class
