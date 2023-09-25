@@ -211,4 +211,16 @@ method untuk sett dan untuk gett.
 menggunakan setter dan getter memungkinkan kita untuk melakukan validasi.
 
 
+class merupakan template dari object
+tapi sebetulnya
+kita bisa mengakses property dan method dalam konteks class.
+
+
+
+Static keyword
+- member yang terikat dengan class, bukan dengan Object
+- nilai static akan selalu tetap, meskipun object di-instansiasi berulang kali 
+- dengan menggunakan static membuat kode menjadi 'procedural'
+- biassanya digunakan untuk membuat fungsi bantuan / helper
+- atau digunakan diclass - class utility pada Framework
 
