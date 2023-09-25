@@ -189,3 +189,26 @@ why visibility??
 - dapat menentukan kebutuhan yang jelas untuk object
 - memberikan kendali pada kode untuk menghindari 'bug'
 
+
+Setter dan getter (accessor method) mempunyai kaitan erat dengan visibility
+karena setter dan getter ini untuk menghindari ketika kita membuat sebuah property 
+dengan visibility public, karena kita sebaiknya tidak membiarkan bagian dari luar kelas
+kita, bisa mengakses property secara langsung.
+maka dari itu kita harus merubah visibilitynya menjadi protected atau private.
+tergantung dari design.
+
+setelah kita mengubah visibilitynya menjadi protected atau private,
+artinya kita tidak lagi mempunyai akses secara langsung.
+jika kita ingin mendapatkan isi dari sebuah property atau bahkan mensett 
+nilai baru ke sebuah properti.
+
+untuk itulah kita butuh sebuah method, method untuk bisa membaca atau melihat isi
+dari properti ataupun mengubah isinya.
+
+method tersebut kita sebut dengan setter dan getter.
+method untuk sett dan untuk gett.
+
+menggunakan setter dan getter memungkinkan kita untuk melakukan validasi.
+
+
+
