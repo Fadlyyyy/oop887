@@ -224,3 +224,13 @@ Static keyword
 - biassanya digunakan untuk membuat fungsi bantuan / helper
 - atau digunakan diclass - class utility pada Framework
 
+
+
+constant 
+sebuah identifier untuk menyimpan nilai, nilainya tidak dapat berubah.
+
+ada 2 cara didalam php untuk membuat constant atau konstanta
+1. define()
+2. const
+
+
